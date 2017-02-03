@@ -15,4 +15,5 @@
 - Follow the instructions then restart emacs
 
 ### Jedi's autocomplete for Python
-- Refer to [this](]http://tkf.github.io/emacs-jedi/latest/#requirements)
+- Refer to http://tkf.github.io/emacs-jedi/latest/#requirements
+- Start emacs then type `M-x jedi:install-server`
